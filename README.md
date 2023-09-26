@@ -24,11 +24,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### :woman_technologist: About Me :
 <!--
 **mahmoudjebreel/mahmoudjebreel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
 
-### :woman_technologist: About Me :
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
