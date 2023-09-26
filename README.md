@@ -50,8 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" **alt="JQuery" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/phpstorm/phpstorm-original-wordmark.svg" title="PHP" **alt="PHP" width="40" height="40"/>
 
 </div>
 <!--
