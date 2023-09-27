@@ -18,7 +18,6 @@
 	</g>
 </svg>
 <style>
-    /* Google chrome */
       @-webkit-keyframes svg-text-anim {
        40% {
           stroke-dashoffset: 0;
@@ -32,10 +31,7 @@
           stroke-dashoffset: 0;
           fill: #82c1e8;
         }
-        
-    }
-    /* Most browsers */
-    @keyframes svg-text-anim {
+           @keyframes svg-text-anim {
        40% {
           stroke-dashoffset: 0;
           fill: transparent;
@@ -50,6 +46,8 @@
         }
         
     }
+    }
+ 
 </style>
 <script>
   function setTextAnimation(delay, duration, strokeWidth, timingFunction, strokeColor,repeat) {
