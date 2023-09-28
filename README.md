@@ -27,7 +27,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Palestine - Gaza.
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Palestine - Gaza.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
